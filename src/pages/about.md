@@ -3,34 +3,20 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+If you see this page, you're awesome! Thanks so much for come here, in my website!  
+Introduce myself, i like to called as `@w3teal` in internet. If you're wondering what that's name means,
+- **W3**: World Wide Web (like in W3C name)
+- **Teal**: My favorite color! (In light theme, this accent is used. Specifically turqoise).
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Logo variations:
+![Logo variations](/assets/branding.png)
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+There's so much you can learn about me, but here the curated:
+- I'm school at [SMP (Highschool) Negeri 1](https://www.instagram.com/smpn1tamora/). (There's no tech specific thing)
+- I'm [started coding at 2023](https://fosstodon.org/@w3teal/114063974065067779) (Specifically in Friday, August 25, with sportswear)
+- I run [@kdensport@youtube.com](https://www.youtube.com/@kdensport), most well known video is FIFA world cup intro compilation.
+- I was born and live in North Sumatra, Indonesia. (No [#KaburAjaDulu](https://id.wikipedia.org/wiki/KaburAjaDulu))
+- I'm high [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) and [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) fans
+- [![Markdown Badges for LastFM](https://badges.lastfm.workers.dev/last-played?user=ligmatv&color=green)](https://www.last.fm/user/ligmatv)
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+> Tip! You can get ISO 8601 datetime by running `new Date().toISOString()` in the console. Make sure you remove quotes though.
