@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://w3teal.github.io/", // replace this with your deployed domain
+  website: "https://w3teal.vercel.app/", // replace this with your deployed domain
   author: "Muhammad Danish Naufal",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "W3Teal's official blog website.",
   title: "W3Teal",
   ogImage: "opengraph.jpg",
   lightAndDarkMode: true,
