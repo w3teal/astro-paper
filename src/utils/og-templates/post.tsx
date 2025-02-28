@@ -7,7 +7,7 @@ export default async (post: CollectionEntry<"blog">) => {
   return satori(
     <div
       style={{
-        background: "#fefbfb",
+        background: "#FAFFFF",
         width: "100%",
         height: "100%",
         display: "flex",
@@ -15,33 +15,14 @@ export default async (post: CollectionEntry<"blog">) => {
         justifyContent: "center",
       }}
     >
-      <div
-        style={{
-          position: "absolute",
-          top: "-1px",
-          right: "-1px",
-          border: "4px solid #000",
-          background: "#ecebeb",
-          opacity: "0.9",
-          borderRadius: "4px",
-          display: "flex",
-          justifyContent: "center",
-          margin: "2.5rem",
-          width: "88%",
-          height: "80%",
-        }}
-      />
 
       <div
         style={{
-          border: "4px solid #000",
-          background: "#fefbfb",
-          borderRadius: "4px",
           display: "flex",
           justifyContent: "center",
-          margin: "2rem",
-          width: "88%",
-          height: "80%",
+          margin: "1rem",
+          width: "95%",
+          height: "95%",
         }}
       >
         <div
@@ -56,10 +37,11 @@ export default async (post: CollectionEntry<"blog">) => {
         >
           <p
             style={{
-              fontSize: 72,
+              fontSize: 88,
               fontWeight: "bold",
               maxHeight: "84%",
               overflow: "hidden",
+              color: "#07bbbc",
             }}
           >
             {post.data.title}
@@ -71,6 +53,7 @@ export default async (post: CollectionEntry<"blog">) => {
               width: "100%",
               marginBottom: "8px",
               fontSize: 28,
+              opacity: "0.5",
             }}
           >
             <span>

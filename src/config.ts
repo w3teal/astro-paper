@@ -12,7 +12,7 @@ export const SITE: Site = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
-    url: "https://github.com/w3teal/w3teal.github.io/edit/main/src/content/blog",
+    url: "https://github.com/w3teal/www/edit/main/src/content/blog",
     text: "Suggest Changes",
     appendFilePath: true,
   },
