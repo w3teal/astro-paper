@@ -2,6 +2,8 @@
 title: Using Reprose as a CMS for writing with GitHub
 description: You don't need a CMS if your posts are hosted on GitHub!
 pubDatetime: 2025-02-28T07:33:53.292Z
+tags:
+  - tutorial
 ---
 Writing posts for Static Site Generator has been a mess lately. Why? There is no consistent CMS, some have to be paid, or make a big config to make the CMS work.
 
