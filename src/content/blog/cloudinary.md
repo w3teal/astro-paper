@@ -2,6 +2,8 @@
 title: Managing images through Cloudinary (and why I love it)
 description: You don't always have to rely on Git to upload images!
 pubDatetime: 2025-03-01T02:43:43.921Z
+tags:
+  - tutorial
 ---
 Since I use Reprose as my posting CMS, managing images has become the hardest part. I am too lazy to upload and commit each image via Git.
 
