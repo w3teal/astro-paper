@@ -2,6 +2,8 @@
 title: Inter, beautiful. personal.
 description: A beautiful font from the default, no need to be tacky.
 pubDatetime: 2025-03-01T05:00:31.123Z
+tags:
+  - reasons
 ---
 As you can see on this website, it uses the Inter font. It's beautiful and easy to read. I've been a fan of using the Inter font since the website I created in the new year 2025. At first I ignored using the system's default font, but after finding a good font, getting Inter and putting it in, the website instantly became different.
 
