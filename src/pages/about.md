@@ -19,4 +19,6 @@ There's so much you can learn about me, but here the curated:
 - I'm high [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) and [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) fans
 - [![Markdown Badges for LastFM](https://badges.lastfm.workers.dev/last-played?user=ligmatv&color=green)](https://www.last.fm/user/ligmatv)
 
-> Tip! You can get ISO 8601 datetime by running `new Date().toISOString()` in the console. Make sure you remove quotes though.
+> The time is in ISO format so I can easily copy it to `pubDatetime`: <strong id="datetime"></strong>
+
+<script>document.getElementById("datetime").textContent = new Date().toISOString();</script>
