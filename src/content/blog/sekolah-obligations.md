@@ -2,7 +2,7 @@
 title: '"Sekolah" obligations'
 description: Schools do not always know what is better
 pubDatetime: 2025-03-01T06:24:12.804Z
-tags: "[personal]"
+tags: personal
 ---
 Clothing policies in many countries have become commonplace. However, there is always something odd about every teacher being asked, the answer is "So that there is no difference, all students are the same", but I think if they don't want to differentiate, stupid and smart people shouldn't be told the difference in their mental abilities. Or a ranking system, with that alone, there are already many differences that can be taken.
 
