@@ -2,7 +2,10 @@
 title: "#100DaysToOffload"
 description: Every day is worth writing down, how about making it into a contest?
 pubDatetime: 2025-03-01T04:11:31.943Z
+tags:
+  - event
 ---
+
 I first discovered the “[100DaysToOffload](https://100daystooffload.com/)” activity [on Kytta's website](https://www.kytta.dev/blog/enough/). Since I discovered it, I have been very interested in making more posts. This post is not the first post in this activity, but the eighth. (Even though it lacks context, the post doesn't need to be serious, right?)
 
 ---
